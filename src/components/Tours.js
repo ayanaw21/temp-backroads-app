@@ -43,7 +43,7 @@ const Tours = () => {
 										<i className="fas fa-map"></i>
 									</span>{location}
 								</p>
-								<p>"{duration}"</p>
+								<p>{duration}days</p>
 								<p>from ${cost}</p>
 							</div>
 						</div>
