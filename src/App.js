@@ -15,7 +15,7 @@ const App = () => {
 			<About />
 			<Services />
 			<Tours />
-      <Footer />
+			<Footer />
 		</>
 	);
 };
